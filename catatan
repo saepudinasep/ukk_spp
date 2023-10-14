@@ -1,0 +1,18 @@
+Admin
+- Profile Done
+- Data Siswa Done
+- Data Petugas Done
+- Data Kelas Done
+- Data SPP Done
+- Transaksi Masalah (Proses Update)
+- Riwayat Pembayaran Done
+- Generate Laporan
+Petugas
+- Profile
+- Transaksi Masalah (Proses Update)
+- Riwayat Pembayaran
+Siswa
+- Login
+- LogOut
+- Profile
+- Riwayat Pembayaran
